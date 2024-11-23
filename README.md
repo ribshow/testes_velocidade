@@ -10,4 +10,7 @@
 
 ## Reproduzindo os testes
 
-- Para reproduzir os testes basta baixar o XAMPP
+- Para reproduzir os testes nos bancos relacionais basta baixar o XAMPP
+
+- Para reproduzir os testes no mongoDB adicionalmente é necessário rodar o comando:
+  - composer install
